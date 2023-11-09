@@ -7,11 +7,11 @@ Reference No.: 23000851
 Department: Artificial intelligence and Data science
 
 ## AIM:
-   To create a django model with five users.
+To create a django model with five users.
 
-      1.Setting email address for all users.
+1.Setting email address for all users.
 
-      2. Setting first name and last name for all users.
+2. Setting first name and last name for all users.
 
 ## PROCEDURE:
 

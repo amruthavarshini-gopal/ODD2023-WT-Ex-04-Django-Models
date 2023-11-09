@@ -61,4 +61,4 @@ And  in the user_profile template page you can see the profile page of the user.
 
 ## OUTPUT:
 
-![Alt text](MODEL.png)
+![Alt text](MODEL-1.png)
